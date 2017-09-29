@@ -1,0 +1,23 @@
+h1{color: lightblue; }
+h2 { font-size: 150%;
+    font-style: italic;
+    color: aqua;
+    }
+
+
+body {
+    backround:
+    color: green;
+    font-size:24pt;
+    font-family:'Indie-Flower'
+    }
+
+
+
+nav li {
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    margin: 20px;
+    backround: white;
+    }
